@@ -1,2 +1,2 @@
-# frontendstore, CSS Flexbox, Mobile First.
+# frontendstore, CSS, Mobile First.
 # Diseño para tienda online
